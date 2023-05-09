@@ -1,5 +1,5 @@
 # CSGOHacks
-Various hacks for Counter Strike: Global offensive written in Python
+Various hacks for Counter Strike: Global Offensive written in Python
 
 Triggerbot - Simulates a mouseclick when the crosshair is over a visible player.
 Bhop - Automatically jumps for you
